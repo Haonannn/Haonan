@@ -1,3 +1,2 @@
-# Haonan
 
-This is about a programer's path to advancement.
+**This is about a programmer's path to advancement.**
